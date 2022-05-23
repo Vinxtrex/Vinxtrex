@@ -19,6 +19,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
+![Php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda)&nbsp;
 [![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;][c]

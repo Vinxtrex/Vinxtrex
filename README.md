@@ -2,8 +2,7 @@
 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCqCUlPzX2OrZoRTSQ-UMM8w)
 
-[![Instagram](https://img.shields.io/twitter/url?label=INSTARAM&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2F")]
-(https://www.instagram.com/vinxtrex/)
+[![Instagram](https://img.shields.io/twitter/url?label=INSTARAM&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%https://www.instagram.com/vinxtrex/)
 
 ### 👨🏻‍💻 About Me
 

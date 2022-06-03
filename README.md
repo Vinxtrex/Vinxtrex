@@ -42,7 +42,7 @@
 ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-333333?style=flat&logo=kalilinux&logoColor=white)
 
 ---
 

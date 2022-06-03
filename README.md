@@ -68,5 +68,7 @@
 
 -----
 
+! [Github Stats] (https://github-readme-stats.vercel.app/api?username=curiousgrids&theme=radical)
+
 ### Snake eating my contribution graph
 ![snake gif](https://github.com/Vinxtrex/Vinxtrex/blob/output/github-contribution-grid-snake.gif)

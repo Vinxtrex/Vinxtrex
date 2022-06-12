@@ -40,9 +40,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
 [![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
 ![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=Twilio)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)&nbsp;
-![Kali](https://img.shields.io/badge/Kali-333333?style=flat&logo=kalilinux&logoColor=white)
 
 ---
 

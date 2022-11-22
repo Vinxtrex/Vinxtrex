@@ -66,7 +66,11 @@
 
 -----
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinxtrex&show_icons=true&theme=dark)
 
 ### Snake eating my contribution graph
 ![snake gif](https://github.com/Vinxtrex/Vinxtrex/blob/output/github-contribution-grid-snake.gif)
+
+### ㅤ
+![project gif](https://i.imgur.com/u8GNuAo.gif)

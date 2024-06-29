@@ -1,7 +1,5 @@
 ### Hi there, I'm Vinxtrex
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCqCUlPzX2OrZoRTSQ-UMM8w)
-
 ### 👨🏻‍💻 About Me
 
 - 📈 I'm a Data science and AI Enthusiast!
